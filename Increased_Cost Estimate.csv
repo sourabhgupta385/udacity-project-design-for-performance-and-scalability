@@ -11,7 +11,3 @@ My Estimate,US East (Ohio),Amazon RDS for PostgreSQL,0,2744.64,32935.68,USD,"Qua
 My Estimate,US East (Ohio),Amazon Virtual Private Cloud (VPC),0,78.93,947.16,USD,Number of NAT Gateways (1)
 My Estimate,US East (Ohio),Amazon Virtual Private Cloud (VPC),0,1356.71,16280.52,USD,"Data Transfer, Data transfer cost (1356.71)"
 My Estimate,US East (Ohio),Elastic Load Balancing,0,37.52,450.24,USD,Number of Application Load Balancers (2)
-
-
-
-"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
