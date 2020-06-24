@@ -1,0 +1,7 @@
+credentials
+Exercise_1/.terraform*
+Exercise_1/terraform.tfstate
+Exercise_1/terraform.tfstate.backup
+Exercise_2/.terraform*
+Exercise_2/terraform.tfstate
+Exercise_2/terraform.tfstate.backup
