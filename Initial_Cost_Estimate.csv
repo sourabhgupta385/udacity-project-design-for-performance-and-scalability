@@ -1,0 +1,12 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,33.04,396.48,USD,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,32.89,394.68,USD,Number of NAT Gateways (1)
+My Estimate,US East (N. Virginia),Amazon EC2,0,1384.88,16618.56,USD,"Operating system (Linux), Quantity (10), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (t2.xlarge)"
+My Estimate,US East (N. Virginia),Amazon RDS for PostgreSQL,0,5586.56,67038.72,USD,"Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (2 TB per month), Instance type (db.m5.4xlarge), Additional backup storage (5 TB)"
+My Estimate,US East (N. Virginia),S3 Standard,0,235.52,2826.24,USD,S3 Standard storage (10 TB per month)
+My Estimate,US East (N. Virginia),Data Transfer,0,1356.71,16280.52,USD,"Data Transfer, Data transfer cost (1356.71)"
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,1356.71,16280.52,USD,"Data Transfer, Data transfer cost (1356.71)"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,
